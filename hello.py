@@ -1,3 +1,5 @@
 print("bye world")
 
-first_name = "Troy"
+first_name = "ZaY"
+
+last_name = "simba"
